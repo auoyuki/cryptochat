@@ -17,6 +17,12 @@ Description CryptoChat is a minimalistic console application that allows you to 
 -Sockets 
 - curses (future)
 
+## connect to server
+There are two types of connection in the program: 
+1. Local. 2. Public.
+To connect publicly, use Radmin VPN or Hamachi.
+Once you've set up a VPN, start the server, and connect to it through the IP address that you wrote either when you started the server or in the VPN itself.
+
 ## launch
 `bash
 python main.py - generate secret.key
