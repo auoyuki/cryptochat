@@ -30,7 +30,8 @@ python main.py - generate secret.key
 python server.py - start server
 
 python client.py - start client
-------------------------------------------
+
+-----------------------------------------
 how to setup?
 
 chmod +x setup.sh
